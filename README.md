@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Anderson Alves 😃 ###
 
-- Eu sou um designer gráfico que esta mudando para área da programação
+- Eu sou um designer gráfico que decidi mudar para área de front-end
 
-- Atuamente eu estou aprendendo **JavaScript**
+- Atuamente eu estou estudando **JavaScript**
 
 ### Pode me encontrar ###
 
