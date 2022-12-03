@@ -11,7 +11,7 @@
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andy-alves&show_icons=true&theme=radical)
 
-## tecnologia do meu dia ##
+## tecnologia do meu dia a dia ##
 
 
 <div style = display:inline-block;><br>
