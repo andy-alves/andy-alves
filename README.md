@@ -6,7 +6,7 @@
 
 ## Pode me encontrar ##
 
-https://andy-alves.github.io/portifolio/
+portifolio: https://portifolio-beige-three.vercel.app/
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andyy_alvesx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonalvves/)
